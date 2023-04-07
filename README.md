@@ -1,4 +1,4 @@
-# HIPE
+# FFHR
 ## Installation
 
 (Default for linux)
